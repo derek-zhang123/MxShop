@@ -8,7 +8,7 @@ from MxShop.settings import MEDIA_ROOT
 # from goods.view_base import GoodsListView
 
 from rest_framework.documentation import include_docs_urls
-from goods.views import GoodsListViewSet,CategoryViewSet,BannerViewset,IndexCategoryViewset
+from goods.views import GoodsListViewSet,CategoryViewSet,BannerViewset,IndexCategoryViewset,HotSearchsViewset
 from rest_framework.routers import DefaultRouter
 from rest_framework.authtoken import views
 from rest_framework_jwt.views import obtain_jwt_token
