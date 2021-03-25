@@ -39,7 +39,7 @@ PyJWT==1.6.1
 PyMySQL==0.8.0
 python3-openid==3.1.0
 pytz==2018.3
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 requests-oauthlib==0.8.0
 six==1.11.0
