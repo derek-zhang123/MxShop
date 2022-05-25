@@ -35,7 +35,7 @@ openpyxl==2.5.2
 Pillow==5.1.0
 pycparser==2.18
 pycryptodome==3.6.1
-PyJWT==1.6.1
+PyJWT==2.4.0
 PyMySQL==0.8.0
 python3-openid==3.1.0
 pytz==2018.3
